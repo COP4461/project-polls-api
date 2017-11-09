@@ -1,5 +1,5 @@
-# project-polls-api
-Backend API server code for project-polls
+# Pollstop.com API
+Backend API server code for pollstop project
 
 
 ## Table of Contents
